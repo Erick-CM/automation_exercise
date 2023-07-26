@@ -1,0 +1,16 @@
+{
+  "name": "test_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^2.1.2",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^20.9.0"
+  }
+}
